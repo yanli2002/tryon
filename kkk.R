@@ -1,9 +1,5 @@
 llkjadkjh
 adk;lkj;lk
-after new year
---lhlkjhioqeyrug
---alhfkjahf
-
 
 # Setup
 library(survey)
